@@ -1,0 +1,5 @@
+ Installation of java: sudo apt update
+                       sudo apt install default -jre
+ Verification: java -- version
+ Installation of maven: sudo apt update && sudo apt install maven -y
+ Verification: mvn -- version
